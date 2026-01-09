@@ -1,12 +1,12 @@
 # Homebrew Tap for Minibox
 
-This is the official Homebrew tap for [minibox](https://github.com/kyson/minibox).
+This is the official Homebrew tap for [minibox](https://github.com/kyson-dev/sing-helm).
 
 ## Installation
 
 ```bash
-brew tap kyson/minibox
-brew install minibox
+brew tap kyson-dev/sing-helm
+brew install sing-helm
 ```
 
 ## Usage
@@ -15,13 +15,13 @@ After installation:
 
 ```bash
 # Check version
-minibox version
+sing-helm version
 
 # Start service
-sudo minibox run
+sudo sing-helm run
 
 # Enable autostart
-sudo minibox autostart on
+sudo sing-helm autostart on
 ```
 
 ## Updating
@@ -32,5 +32,5 @@ To update manually:
 
 ```bash
 brew update
-brew upgrade minibox
+brew upgrade sing-helm
 ```
