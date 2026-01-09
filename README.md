@@ -1,6 +1,6 @@
 # Homebrew Tap for Minibox
 
-This is the official Homebrew tap for [minibox](https://github.com/kyson-dev/sing-helm).
+This is the official Homebrew tap for [sing-helm](https://github.com/kyson-dev/sing-helm).
 
 ## Installation
 
